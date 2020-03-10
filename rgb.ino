@@ -1,4 +1,5 @@
-
+#代码问题较多，开关已解决，rgb回传还有问题，建议自行更改
+#by xqt 2020-03-10
 #define BLINKER_PRINT Serial
 #define BLINKER_WIFI
 #define BLINKER_MIOT_LIGHT
